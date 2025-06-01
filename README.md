@@ -2,7 +2,7 @@
 
 A simple Python command-line application to manage your daily tasks using a plain text file.
 
-## 🚀 How to Run```bash
+## 🚀 How to Run
 python todo.py
 
 📌 Features
